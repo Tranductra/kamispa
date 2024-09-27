@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155238205794",
+    "project_id": "kamispa-fireba",
+    "storage_bucket": "kamispa-fireba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155238205794:android:07617b12d819644244443b",
+        "android_client_info": {
+          "package_name": "com.example.kamispa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ5Ta-CNgx_ZXwARvLTQRcHWoodhyV3gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
